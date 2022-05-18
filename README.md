@@ -1,6 +1,11 @@
 # Experiment-Repo
 
 
-ExchangeRate dataset's experimental results 
+ExchangeRate dataset's experimental results :
 
-![exchangeRate](https://user-images.githubusercontent.com/61948300/169157698-e0c00148-9f92-401f-afd1-2a45de72f534.png)
+![exchangeRate](https://user-images.githubusercontent.com/61948300/169159437-444e1b43-cf5c-4fcf-892c-1960fc36db17.png)
+
+
+ExchangeRate dataset's experimental reduced results : 
+
+![exchangeRateReduced](https://user-images.githubusercontent.com/61948300/169159447-65acb49d-a6b5-4e34-a7fd-153ab95c75f4.png)
